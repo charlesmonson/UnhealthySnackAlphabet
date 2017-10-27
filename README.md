@@ -1,4 +1,4 @@
-# UnhealthySnackAlphabet (USA)
+# The Unhealthy Snack Alphabet (USA)
 Phonetic Alphabet using snacks
 
 ## Alphabet
