@@ -2,6 +2,9 @@
 Phonetic Alphabet using snacks
 
 ## Alphabet
+
+|Letter|Word|
+|---|---|
 |A||
 |B||
 |C||
