@@ -32,4 +32,4 @@ The Unhealthy Snack Alphabet (USA) will help you to share long passwords, compli
 |W|Weiners|
 |X|Xtra Cheddar Goldfish|Extreme sour belts|
 |Y|York Peppermint|
-|Z|Zingers|Zagnut|
+|Z|Zingers|Zagnut|Zebra Cakes|Zero Bar|
