@@ -22,7 +22,7 @@ The Unhealthy Snack Alphabet (USA) will help you to share long passwords, compli
 |M|M&M's|
 |N|Nutella|Nerds|
 |O|Oreo|
-|P|Payday|Pie|Pixie Sticks|
+|P|Payday|Pie|Pixy Stix|
 |Q|Queso|
 |R|Reese's Pieces|
 |S|Skittles|
