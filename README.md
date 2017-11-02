@@ -5,8 +5,8 @@ The Unhealthy Snack Alphabet will help you to share long passwords, complicated 
 
 ## Alphabet
 
-|Letter|Word||||||
-|---|---|---|---|---|---|---|
+|Letter|Word|
+|---|---|
 |A|Apple Pie|
 |B|Butterfinger|
 |C|Chocolate|
@@ -14,7 +14,7 @@ The Unhealthy Snack Alphabet will help you to share long passwords, complicated 
 |E|Eclair|
 |F|French Fries|
 |G|Gummy Bears|
-|H||Ho-Hos|
+|H|Ho-Hos|
 |I|Ice Cream|
 |J|Jelly Beans|
 |K|Kit-Kats|
