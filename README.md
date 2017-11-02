@@ -1,7 +1,7 @@
 # The Unhealthy Snack Alphabet
 Many people have trouble remembering the NATO Phonetic Alphabet. This is a much more memorable phonetic alphabet based on something anyone can remember, popular unhealthy snacks!
 
-The Unhealthy Snack Alphabet will help you to share long passwords, complicated web URLs, your email address, and much more while talking on the phone.
+The Unhealthy Snack Alphabet will help you to share long passwords, complicated web URLs, your email address, and much more while communicating over the phone or in shouted conversation.
 
 ## Alphabet
 
